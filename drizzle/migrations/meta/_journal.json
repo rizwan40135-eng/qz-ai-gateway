@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791989495813,
+      "tag": "0000_qgate_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791989512672,
+      "tag": "0001_flatten_key_aliases",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791989564762,
+      "tag": "0002_entitlement_exceptions_provider_secrets",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1791990429569,
+      "tag": "0003_model_outage",
+      "breakpoints": true
+    }
+  ]
+}

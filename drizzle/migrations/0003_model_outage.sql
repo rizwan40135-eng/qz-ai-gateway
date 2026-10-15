@@ -1,0 +1,1 @@
+alter table public.models add column simulated_outage boolean default false;

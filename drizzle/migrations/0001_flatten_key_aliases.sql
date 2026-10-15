@@ -1,0 +1,1 @@
+update public.gateway_keys set aliases = array(select unnest(aliases));
